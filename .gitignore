@@ -6,10 +6,9 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 #Allure
-/allure-report
-/.allure
-/allure-results
+allure-report/
+.allure/
+allure-results/
 /report_tests.xml
-/.github
 /allurerc.mjs
 /.env
