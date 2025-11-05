@@ -1,2 +1,0 @@
-https://apichallenges.herokuapp.com/gui/challenges/43f3cb88-1a09-4e43-b4fd-89bf760df3af
-[object Object]
